@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43b6f2f2-6287-4343-a5ac-de1cf71101ad" name="Default Changelist" comment="" />
+    <list default="true" id="43b6f2f2-6287-4343-a5ac-de1cf71101ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/project/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/$name__word$.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/$name__word$.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Debug.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Debug.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/GatlingRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/GatlingRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/MaxPerformance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/MaxPerformance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Stability.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Stability.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/cases/GetMainPage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/cases/GetMainPage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/scenarios/CommonScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/scenarios/CommonScenario.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +25,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1pIvAAPmFaJdsFTRsNp8WEkf3LC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -40,5 +57,16 @@
       <updated>1614883273548</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
